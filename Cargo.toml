@@ -1,0 +1,14 @@
+[package]
+name = "teal"
+version = "0.1.0"
+edition = "2024"
+authors = ["Jack Roddy <jack.w.roddy@gmail.com>"]
+repository = "https://github.com/jackroddy/teal"
+license = "MIT OR Apache-2.0"
+description = "teal explores architectural layout"
+readme = "README.md"
+exclude = ["CLAUDE.md"]
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
