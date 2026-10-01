@@ -1,0 +1,28 @@
+{
+  "id": "teal-586cf6",
+  "title": "Decide what teal explores and what it shows",
+  "body": "The acronym says teal explores architectural layout. Settle what layout means here, what teal reads to find it, and what it prints or draws, before any of it goes into src.",
+  "type": "decision",
+  "status": "open",
+  "priority": 2,
+  "labels": [],
+  "parent": null,
+  "blocked_by": [],
+  "related": [],
+  "assignee": null,
+  "lease_expires": null,
+  "defer_until": null,
+  "created_at": "2026-10-01T01:12:54.390398795Z",
+  "updated_at": "2026-10-01T01:12:54.390398795Z",
+  "closed_at": null,
+  "close_reason": null,
+  "resolution": null,
+  "notes": [],
+  "stamps": {
+    "created": {
+      "commit": "ea9ccbe",
+      "branch": "dev"
+    },
+    "closed": null
+  }
+}
